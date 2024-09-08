@@ -1,0 +1,6 @@
+*
+
+!.gitignore
+!main.c
+!pe_base64.c
+!pe_base64.h
